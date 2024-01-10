@@ -8,7 +8,7 @@ export default function Navbar() {
                     <img src='/img/logo.png' className='py-8 pl-24 pr-8 cursor-pointer' alt="logo" />
                 <div className="-skew-x-[24deg] border-r border-[#2CB4AC]" />
                 <div className='flex flex-col flex-1 border-l border-[#2CB4AC] -skew-x-[24deg] font-semibold'>
-                    <ul className='px-10 flex justify-around items-center bg-gradient-to-r from-[#2CB4AC] to-[#439CC4] text-white py-1'>
+                    <ul className='px-10 flex justify-around items-center bg-gradient-to-r from-primary to-[#439CC4] text-white py-1'>
                         <li className='flex items-center'><span><PhoneIcon className='w-6 h-6 pr-2' /></span>Telp : (0101) 01010101 / Whatsapp : 01010101010</li>
                         <li className='flex items-center'> <span><EnvelopeIcon className='w-6 h-6 pr-2' /></span>Email : rsmdclone@gmail.com
                         </li>
