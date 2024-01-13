@@ -1,5 +1,7 @@
 # Rsmd Clone
 
+## View Mobile
+
 ## Techstack
 
 ### React + Vite Js
