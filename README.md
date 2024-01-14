@@ -1,6 +1,7 @@
 # Rsmd Clone
 
 ## View Mobile
+## View Tablet
 
 ## Techstack
 
