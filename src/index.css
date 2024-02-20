@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .bd {
+    @apply border border-black;
+  }
+  .layanan-card {
+    @apply rounded-3xl bg-red-500 w-[285px] h-[285px] md:w-[330px] md:h-[330px] lg:w-[350px] lg:h-[350px] space-y-3 p-5 text-center
+  }
+}
