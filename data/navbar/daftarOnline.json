@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "namaLink": "Pasien BPJS",
+    "link": "/pasienbpjs"
+  },
+  {
+    "id": 2,
+    "namaLink": "Pasien Umum & Asuransi",
+    "link": "/pasienumumdanasuransi"
+  }
+]

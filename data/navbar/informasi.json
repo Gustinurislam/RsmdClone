@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "namaLink": "Asuransi Rekanan",
+    "link": "/asuransirekanan"
+  },
+  {
+    "id": 2,
+    "namaLink": "Alur Pendaftaran Pasien",
+    "link": "/alurpendaftaranpasien"
+  },
+  {
+    "id": 3,
+    "namaLink": "Hak Dan Kewajiban Pasien",
+    "link": "/hakdankewajibanpasien"
+  },
+  {
+    "id": 4,
+    "namaLink": "Lowongan Kerja RSMD",
+    "link": "/lowongankerjarsmd"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "namaLink": "Intalasi Gawat Darurat (IGD)",
+    "link": "/igd"
+  },
+  {
+    "id": 2,
+    "namaLink": "Medical Check Up (MCU)",
+    "link": "/mcu"
+  },
+  {
+    "id": 3,
+    "namaLink": "Rawat Jalan / Poliklinik",
+    "link": "/rajal"
+  },
+  {
+    "id": 4,
+    "namaLink": "Rawat Inap",
+    "link": "/ranap"
+  },
+  {
+    "id": 5,
+    "namaLink": "Penunjang Medis",
+    "link": "/penunjangmedis"
+  },
+  {
+    "id": 6,
+    "namaLink": "Fasilitas Lain",
+    "link": "/fasilitaslain"
+  }
+]

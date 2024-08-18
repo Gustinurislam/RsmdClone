@@ -6,7 +6,13 @@
   .bd {
     @apply border border-black;
   }
+  .flex-center {
+    @apply flex items-center justify-center
+  }
+  .flex-between {
+    @apply flex items-center justify-between;
+  }
   .layanan-card {
-    @apply rounded-3xl bg-red-500 w-[285px] h-[285px] md:w-[330px] md:h-[330px] lg:w-[350px] lg:h-[350px] space-y-3 p-5 text-center
+    @apply rounded-3xl bg-red-500 w-[285px] h-[285px] md:w-[330px] md:h-[330px] lg:w-[350px] lg:h-[350px] space-y-3 p-5 text-center;
   }
 }

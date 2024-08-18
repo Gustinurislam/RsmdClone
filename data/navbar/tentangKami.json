@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "namaLink": "Sejarah",
+    "link": "/sejarah"
+  },
+  {
+    "id": 2,
+    "namaLink": "Visi - Misi",
+    "link": "/visimisi"
+  },
+  {
+    "id": 3,
+    "namaLink": "Latar Belakang",
+    "link": "/latarbelakang"
+  },
+  {
+    "id": 4,
+    "namaLink": "Capaian Indikator Mutu",
+    "link": "/capaianindikatormutu"
+  }
+]

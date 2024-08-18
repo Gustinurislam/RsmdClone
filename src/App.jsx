@@ -5,6 +5,7 @@ import Promo from "./components/Promo"
 import Covid19 from "./components/Covid19"
 import Contact from "./components/Contact"
 import Footer from "./components/Footer"
+import Subscribe from "./components/Subscribe"
 
 const App = () => {
 
@@ -15,8 +16,9 @@ const App = () => {
       <Layanan />
       <Promo />
       <Covid19 />
+      <Subscribe />
       <Contact />
-      <Footer/>
+      <Footer />
     </>
   )
 }

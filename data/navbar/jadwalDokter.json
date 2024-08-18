@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "namaLink": "Poliklinik Reguler",
+    "link": "/polireguler"
+  },
+  {
+    "id": 2,
+    "namaLink": "Poliklinik Eksekutif",
+    "link": "/polieksekutif"
+  }
+]

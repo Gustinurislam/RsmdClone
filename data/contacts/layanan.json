@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Instalasi Gawat Darurat (IGD)"
+  },
+  {
+    "id": 2,
+    "title": "Medical Chech Up (MCU)"
+  },
+  {
+    "id": 3,
+    "title": "Rawat Jalan / Poliklinik"
+  },
+  {
+    "id": 4,
+    "title": "Rawat Inap"
+  },
+  {
+    "id": 5,
+    "title": "Penunjang Medis"
+  },
+  {
+    "id": 6,
+    "title": "Fasilitas Lain"
+  }
+]
