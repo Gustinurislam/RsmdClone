@@ -1,4 +1,4 @@
-# Rsmd Clone
+# Rsmd Clone Memorilize for 2024
 
 ## View Mobile
 ## View Tablet

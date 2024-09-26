@@ -194,7 +194,7 @@ export default function Hero() {
                     <span><ViewfinderCircleIcon className='xl:w-9 xl:h-9 2xl:w-6 2xl:h-6 h-4 w-4 ml-3' /></span>
                 </div>
 
-                <div className={`z-10 w-[298px] md:w-[352px] mds:w-[367px] mdm:w-[390px] lg:w-[405px] xl:w-[720px] xls:w-[753px] xlm:w-[773px] xll:w-[786px] 2xl:w-[350px] top-14 xl:top-[97px] 2xl:top-[110px] 2xl:left-28 bg-white absolute xl:text-2xl 2xl:text-base ${open ? 'opacity-100 transition-opacity duration-1000 ease-in-out' : 'opacity-0'}`}>
+                <div className={`z-10 w-[298px] sms:w-[336px] md:w-[352px] mds:w-[367px] mdm:w-[390px] lg:w-[405px] xl:w-[720px] xls:w-[753px] xlm:w-[773px] xll:w-[786px] 2xl:w-[350px] top-14 xl:top-[97px] 2xl:top-[110px] 2xl:left-28 bg-white absolute xl:text-2xl 2xl:text-base ${open ? 'opacity-100 transition-opacity duration-1000 ease-in-out' : 'opacity-0'}`}>
                     <ul className='p-3'>
                         {jadwals.map(({ id, jadwal }) => (
                             <li className='p-2 border-b hover:bg-primary hover:text-white cursor-pointer' key={id}>{jadwal}</li>
